@@ -1,0 +1,10 @@
+*{
+    background-color: blueviolet;
+}
+
+.container{
+  display: flex;
+  justify-content: center; /* في النص أفقياً */
+  align-items: center;     /* في النص رأسياً */
+  height: 50vh;           /* ارتفاع الشاشة بالكامل */
+}
