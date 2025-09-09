@@ -6,5 +6,5 @@
   display: flex;
   justify-content: center; /* في النص أفقياً */
   align-items: center;     /* في النص رأسياً */
-  height: 50vh;           /* ارتفاع الشاشة بالكامل */
+  height: 20vh;           /* ارتفاع الشاشة بالكامل */
 }
